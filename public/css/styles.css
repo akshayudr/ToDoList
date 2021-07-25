@@ -1,0 +1,9 @@
+body {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.text-align {
+    text-align: left;
+    padding-left: 700px;
+}
